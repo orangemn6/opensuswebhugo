@@ -32,9 +32,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  # description = ""
+  description = "OpenSuspect is an open source game inspired by games such as mafia"
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#282525"
 
   homeSubtitle = "An Open Source social deduction game inspired by mafia."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
