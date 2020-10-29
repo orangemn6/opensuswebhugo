@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OpenSuspect</title>
-    <link>https://opensuspect.gq/tags/</link>
+    <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/</link>
     <description>Recent content in Tags on OpenSuspect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="https://opensuspect.gq/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="https://elastic-ardinghelli-6039f8.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>https://opensuspect.gq/tags/demo/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://opensuspect.gq/tags/demo/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://opensuspect.gq/tags/image/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/image/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
-      <guid>https://opensuspect.gq/tags/image/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>https://opensuspect.gq/tags/typography/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/typography/</link>
       <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
       
-      <guid>https://opensuspect.gq/tags/typography/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/typography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://opensuspect.gq/tags/development/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/development/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://opensuspect.gq/tags/go/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/go/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://opensuspect.gq/tags/golang/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/golang/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://opensuspect.gq/tags/hugo/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/hugo/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>https://opensuspect.gq/tags/templates/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/templates/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://opensuspect.gq/tags/themes/</link>
+      <link>https://elastic-ardinghelli-6039f8.netlify.app/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.gq/tags/themes/</guid>
+      <guid>https://elastic-ardinghelli-6039f8.netlify.app/tags/themes/</guid>
       <description></description>
     </item>
     
